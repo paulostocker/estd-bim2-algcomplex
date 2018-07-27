@@ -1,6 +1,6 @@
 # ESTD - Complexidade de Algoritmo
 
-![Comparação de quantidade de operações do algoritmos MinMax](https://raw.githubusercontent.com/paulostocker/estd-bim2-algcomplex/master/br/univille/src/img/grafico.png)
+![Comparação de quantidade de operações do algoritmos MinMax](https://raw.githubusercontent.com/paulostocker/estd-bim2-algcomplex/master/public/graficoComplex.PNG)
 
 O eixo X e Y dos ambos gráficos representam, respectivamente, tamanho do vetor e quantidade de operações.
 
